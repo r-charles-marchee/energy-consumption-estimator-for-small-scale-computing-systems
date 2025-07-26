@@ -52,6 +52,10 @@ Planned extensions include the ability to load multiple inputs from configuratio
 
 This tool contributes a simple, transparent, and extensible method for estimating computational energy usage in small-scale computing systems. By abstracting energy modeling into a high-level Python function and eliminating the need for platform-specific tools, it lowers the barrier to entry for energy-aware software development and research. The open design and minimal complexity make it a strong candidate for adaptation, reuse, and enhancement by the broader research and academic community.
 
+# Acknowledgements
+
+This work acknowledges the open-source Python community and the developers of tools that supported the creation of this software. The project was completed independently without external funding or institutional support.
+
 ---
 
 ## References
